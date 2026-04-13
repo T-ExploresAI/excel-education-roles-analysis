@@ -12,10 +12,11 @@ The dataset tracks anonymised roles across education and administrative fields, 
 
 ### 🔹 Version 1: Data Structuring & Cleaning
 
-* Converted raw data into a structured table
+* Cleaned and organised raw data into a structured database
 * Standardised role and location fields
-* Built dynamic formulas to calculate durations
-* Created summary views for roles and countries
+* Developed dynamic formulas to calculate role durations(days, weeks, months)
+* Created summary metrics for total experience and role analysis
+* Developed a country-level breakdown using COUNTIF formulas
 
 ### 🔹 Version 2: Data Analysis & Visualisation
 
