@@ -72,3 +72,11 @@ This analysis highlights a balanced professional background across administrativ
 This project was created as part of building practical Excel and data analysis skills to support my transition into administrative, operations, and entry-level data roles.
 
 It demonstrates my ability to move from raw data to structured insights and present findings clearly.
+
+## Project Preview
+
+### Version 1: Data Structuring & Cleaning
+![V1 Summary](v1-summary.png)
+
+### Version 2: Pivot Analysis & Visualisation
+![V2 Pivot](v2-pivot-analysis.png)
